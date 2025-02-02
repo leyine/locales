@@ -1,0 +1,15 @@
+{
+    "language_selection": "L'app sera affichée en français",
+    "welcome": {
+        "subtitle": "Découvrez une nouvelle façon de pratiquer votre spiritualité"
+    },
+    "core": {
+        "next": "Suivant",
+        "previous": "Précédent",
+        "bismillah": "Bismi-Llah",
+        "space": "Espace"
+    },
+    "space": {
+        "quran": "Coran"
+    }
+}
