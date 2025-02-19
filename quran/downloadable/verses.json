@@ -2,73 +2,103 @@
     {
         "id": 1,
         "code": "QuranVerse_ar_quran_hafs",
-        "lang": "ar",
-        "type": "quran",
-        "more": "hafs",
+        "group": {
+            "lang": "ar",
+            "type": "quran",
+            "more": "hafs"
+        },
         "name": {
-            "fr": "Coran Hafs (arabe)",
-            "en": "Quran Hafs (arabic)",
-            "ar": "القرآن حفص"
+            "fr": "Arabe - Hafs 'an 'Assim",
+            "en": "Arabic - Hafs 'an 'Assim",
+            "ar": "القرآن - حفص عن عصم"
+        },
+        "metadata": {
+            "version": "0.0.1"
         }
     },
     {
         "id": 2,
         "code": "QuranVerse_ar_quran_warsh",
-        "lang": "ar",
-        "type": "quran",
-        "more": "warsh",
+        "group": {
+            "lang": "ar",
+            "type": "quran",
+            "more": "warsh"
+        },
         "name": {
-            "fr": "Coran Warsh (arabe)",
-            "en": "Quran Warsh (arabic)",
-            "ar": "القرآن ورش"
+            "fr": "Arabe - Warsh 'an Nafi'",
+            "en": "Arabic - Warsh 'an Nafi'",
+            "ar": "القرآن - ورش عن نافع"
+        },
+        "metadata": {
+            "version": "0.0.1"
         }
     },
     {
         "id": 3,
         "code": "QuranVerse_ar_phonetic_hafs",
-        "lang": "la",
-        "type": "phonetic",
-        "more": "hafs",
+        "group": {
+            "lang": "la",
+            "type": "phonetic",
+            "more": "hafs"
+        },
         "name": {
-            "fr": "Coran Hafs Phonétique (latin)",
-            "en": "Quran Hafs Phonetic (latin)",
-            "ar": "القرآن حفص فونيتك"
+            "fr": "Phonétique (latin) - Hafs 'an 'Assim",
+            "en": "Phonetic (latin) - Hafs 'an 'Assim",
+            "ar": "القرآن فونيتيك - حفص عن عاصم"
+        },
+        "metadata": {
+            "version": "0.0.1"
         }
     },
     {
         "id": 4,
         "code": "QuranVerse_fr_translation_hamidullah",
-        "lang": "fr",
-        "type": "translation",
-        "more": "hamidullah",
+        "group": {
+            "lang": "fr",
+            "type": "translation",
+            "more": "hamidullah"
+        },
         "name": {
-            "fr": "Coran Hamidullah (français)",
-            "en": "Quran Hamidullah (french)",
-            "ar": "القرآن حميد الحسن"
+            "fr": "Hamidullah (français)",
+            "en": "Hamidullah (french)",
+            "ar": "حميد الله (فرنسي)"
+        },
+        "metadata": {
+            "version": "0.0.1"
         }
     },
     {
         "id": 5,
         "code": "QuranVerse_ar_tafseer_ibn-katheer",
-        "lang": "ar",
-        "type": "tafseer",
-        "more": "ibn-katheer",
+        "group": {
+            "lang": "ar",
+            "type": "tafsir",
+            "more": "ibn-kathir"
+        },
         "name": {
             "fr": "Tafsir Ibn Kathir (arabe)",
             "en": "Ibn Kathir Tafsir (arabic)",
-            "ar": "تفسير ابن خطير"
+            "ar": "تفسير ابن كثير (عربي)"
+        },
+        "metadata": {
+            "version": "0.0.1"
         }
     },
     {
         "id": 6,
-        "code": "QuranVerse_ar_tafsir_ibn-kathir",
-        "lang": "ar",
-        "type": "tafsir",
-        "more": "ibn-kathir",
+        "code": "QuranVerse_fr_tafsir_ibn-kathir",
+        "group": {
+            "lang": "ar",
+            "type": "tafsir",
+            "more": "ibn-kathir"
+        },
         "name": {
-            "fr": "Tafsir Ibn Kathir (arabe)",
-            "en": "Tafsir Ibn Kathir (arabic)",
-            "ar": "تفسير ابن خطير"
+            "fr": "Tafsir Ibn Kathir (français)",
+            "en": "Tafsir Ibn Kathir (french)",
+            "ar": "تفسير ابن كثير (فرنسي)"
+        },
+        "metadata": {
+            "version": "0.0.1"
         }
     }
 ]
