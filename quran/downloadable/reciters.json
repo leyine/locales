@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "code": "mahmud-al-hussary",
+        "name": "محمود الحسني",
+        "translated": "Mahmoud Al-Hussary",
+        "speed": 1.50,
+        "variant": "hafs",
+        "image": "https://example.com/mahmud-al-hussary.jpg"
+    },
+    {
+        "id": 2,
+        "code": "mishary-al-afasy",
+        "name": "مشاري العفاسي",
+        "translated": "Mishary Al-Afasy",
+        "speed": 1.00,
+        "variant": "hafs",
+        "image": "https://example.com/mishary-al-afasy.jpg"
+    }
+]

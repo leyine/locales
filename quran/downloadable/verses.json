@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "code": "QuranVerse_ar_quran_hafs",
+        "lang": "ar",
+        "type": "quran",
+        "more": "hafs",
+        "name": {
+            "fr": "Coran Hafs (arabe)",
+            "en": "Quran Hafs (arabic)",
+            "ar": "القرآن حفص"
+        }
+    },
+    {
+        "id": 2,
+        "code": "QuranVerse_ar_quran_warsh",
+        "lang": "ar",
+        "type": "quran",
+        "more": "warsh",
+        "name": {
+            "fr": "Coran Warsh (arabe)",
+            "en": "Quran Warsh (arabic)",
+            "ar": "القرآن ورش"
+        }
+    },
+    {
+        "id": 3,
+        "code": "QuranVerse_ar_phonetic_hafs",
+        "lang": "la",
+        "type": "phonetic",
+        "more": "hafs",
+        "name": {
+            "fr": "Coran Hafs Phonétique (latin)",
+            "en": "Quran Hafs Phonetic (latin)",
+            "ar": "القرآن حفص فونيتك"
+        }
+    },
+    {
+        "id": 4,
+        "code": "QuranVerse_fr_translation_hamidullah",
+        "lang": "fr",
+        "type": "translation",
+        "more": "hamidullah",
+        "name": {
+            "fr": "Coran Hamidullah (français)",
+            "en": "Quran Hamidullah (french)",
+            "ar": "القرآن حميد الحسن"
+        }
+    },
+    {
+        "id": 5,
+        "code": "QuranVerse_ar_tafseer_ibn-katheer",
+        "lang": "ar",
+        "type": "tafseer",
+        "more": "ibn-katheer",
+        "name": {
+            "fr": "Tafsir Ibn Kathir (arabe)",
+            "en": "Ibn Kathir Tafsir (arabic)",
+            "ar": "تفسير ابن خطير"
+        }
+    },
+    {
+        "id": 6,
+        "code": "QuranVerse_ar_tafsir_ibn-kathir",
+        "lang": "ar",
+        "type": "tafsir",
+        "more": "ibn-kathir",
+        "name": {
+            "fr": "Tafsir Ibn Kathir (arabe)",
+            "en": "Tafsir Ibn Kathir (arabic)",
+            "ar": "تفسير ابن خطير"
+        }
+    }
+]
