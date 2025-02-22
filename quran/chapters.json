@@ -1,0 +1,32 @@
+[
+    {
+        "id": 98,
+        "name": {
+            "ar": "البينة",
+            "la": "al-Bayyinah",
+            "en": "The Clear Proof",
+            "fr": "La Preuve Claire"
+        },
+        "totalVerses": 8
+    },
+    {
+        "id": 99,
+        "name": {
+            "ar": "الزلزلة",
+            "la": "az-Zalzalah",
+            "en": "The Earthquake",
+            "fr": "La Secousse"
+        },
+        "totalVerses": 8
+    },
+    {
+        "id": 100,
+        "name": {
+            "ar": "العاديات",
+            "la": "Al-Adiyat",
+            "en": "The Chargers",
+            "fr": "Les Coursiers"
+        },
+        "totalVerses": 11
+    }
+]

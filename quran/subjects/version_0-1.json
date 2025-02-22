@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1940,
+        "title": {
+            "en": "The prophet is the clear proof",
+            "fr": "Le prophète est la preuve claire"
+        },
+        "chapterId": 98,
+        "verses": "1-5"
+    },
+    {
+        "id": 1941,
+        "title": {
+            "en": "Fate of the deniers",
+            "fr": "Le sort des mécréants"
+        },
+        "chapterId": 98,
+        "verses": "6"
+    },
+    {
+        "id": 1942,
+        "title": {
+            "en": "Fate of the believers",
+            "fr": "Le sort des croyants"
+        },
+        "chapterId": 98,
+        "verses": "7-8"
+    },
+    {
+        "id": 1943,
+        "title": {
+            "en": "Horrors of the Day of Judgment",
+            "fr": "Les horreurs du Jour du Jugement"
+        },
+        "chapterId": 99,
+        "verses": "1-8"
+    },
+    {
+        "id": 1944,
+        "title": {
+            "en": "Human ingratitude",
+            "fr": "L'ingratitude des hommes"
+        },
+        "chapterId": 100,
+        "verses": "1-11"
+    }
+]
