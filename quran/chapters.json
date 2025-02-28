@@ -1,11 +1,981 @@
 [
     {
+        "id": 1,
+        "name": {
+            "ar": "الفاتحة",
+            "la": "Al-Fatihah",
+            "en": "The Opening",
+            "fr": "L'Ouverture"
+        },
+        "totalVerses": 7
+    },
+    {
+        "id": 2,
+        "name": {
+            "ar": "البقرة",
+            "la": "Al-Baqarah",
+            "en": "The Cow",
+            "fr": "La Vache"
+        },
+        "totalVerses": 286
+    },
+    {
+        "id": 3,
+        "name": {
+            "ar": "آل عمران",
+            "la": "Aal-E-Imran",
+            "en": "The Family of Imran",
+            "fr": "La Famille d'Imran"
+        },
+        "totalVerses": 200
+    },
+    {
+        "id": 4,
+        "name": {
+            "ar": "النساء",
+            "la": "An-Nisa",
+            "en": "The Women",
+            "fr": "Les Femmes"
+        },
+        "totalVerses": 176
+    },
+    {
+        "id": 5,
+        "name": {
+            "ar": "المائدة",
+            "la": "Al-Ma'idah",
+            "en": "The Table Spread",
+            "fr": "La Table Servie"
+        },
+        "totalVerses": 120
+    },
+    {
+        "id": 6,
+        "name": {
+            "ar": "الأنعام",
+            "la": "Al-An'am",
+            "en": "The Cattle",
+            "fr": "Les Bestiaux"
+        },
+        "totalVerses": 165
+    },
+    {
+        "id": 7,
+        "name": {
+            "ar": "الأعراف",
+            "la": "Al-A'raf",
+            "en": "The Heights",
+            "fr": "Les Murailles"
+        },
+        "totalVerses": 206
+    },
+    {
+        "id": 8,
+        "name": {
+            "ar": "الأنفال",
+            "la": "Al-Anfal",
+            "en": "The Spoils of War",
+            "fr": "Le Butin"
+        },
+        "totalVerses": 75
+    },
+    {
+        "id": 9,
+        "name": {
+            "ar": "التوبة",
+            "la": "At-Tawbah",
+            "en": "The Repentance",
+            "fr": "Le Repentir"
+        },
+        "totalVerses": 129
+    },
+    {
+        "id": 10,
+        "name": {
+            "ar": "يونس",
+            "la": "Yunus",
+            "en": "Jonah",
+            "fr": "Jonas"
+        },
+        "totalVerses": 109
+    },
+    {
+        "id": 11,
+        "name": {
+            "ar": "هود",
+            "la": "Hud",
+            "en": "Hud",
+            "fr": "Hud"
+        },
+        "totalVerses": 123
+    },
+    {
+        "id": 12,
+        "name": {
+            "ar": "يوسف",
+            "la": "Yusuf",
+            "en": "Joseph",
+            "fr": "Joseph"
+        },
+        "totalVerses": 111
+    },
+    {
+        "id": 13,
+        "name": {
+            "ar": "الرعد",
+            "la": "Ar-Ra'd",
+            "en": "The Thunder",
+            "fr": "Le Tonnerre"
+        },
+        "totalVerses": 43
+    },
+    {
+        "id": 14,
+        "name": {
+            "ar": "إبراهيم",
+            "la": "Ibrahim",
+            "en": "Abraham",
+            "fr": "Abraham"
+        },
+        "totalVerses": 52
+    },
+    {
+        "id": 15,
+        "name": {
+            "ar": "الحجر",
+            "la": "Al-Hijr",
+            "en": "The Rocky Tract",
+            "fr": "Le Rocher"
+        },
+        "totalVerses": 99
+    },
+    {
+        "id": 16,
+        "name": {
+            "ar": "النحل",
+            "la": "An-Nahl",
+            "en": "The Bee",
+            "fr": "Les Abeilles"
+        },
+        "totalVerses": 128
+    },
+    {
+        "id": 17,
+        "name": {
+            "ar": "الإسراء",
+            "la": "Al-Isra",
+            "en": "The Night Journey",
+            "fr": "Le Voyage Nocturne"
+        },
+        "totalVerses": 111
+    },
+    {
+        "id": 18,
+        "name": {
+            "ar": "الكهف",
+            "la": "Al-Kahf",
+            "en": "The Cave",
+            "fr": "La Caverne"
+        },
+        "totalVerses": 110
+    },
+    {
+        "id": 19,
+        "name": {
+            "ar": "مريم",
+            "la": "Maryam",
+            "en": "Mary",
+            "fr": "Marie"
+        },
+        "totalVerses": 98
+    },
+    {
+        "id": 20,
+        "name": {
+            "ar": "طه",
+            "la": "Ta-Ha",
+            "en": "Ta-Ha",
+            "fr": "Ta-Ha"
+        },
+        "totalVerses": 135
+    },
+    {
+        "id": 21,
+        "name": {
+            "ar": "الأنبياء",
+            "la": "Al-Anbiya",
+            "en": "The Prophets",
+            "fr": "Les Prophètes"
+        },
+        "totalVerses": 112
+    },
+    {
+        "id": 22,
+        "name": {
+            "ar": "الحج",
+            "la": "Al-Hajj",
+            "en": "The Pilgrimage",
+            "fr": "Le Pèlerinage"
+        },
+        "totalVerses": 78
+    },
+    {
+        "id": 23,
+        "name": {
+            "ar": "المؤمنون",
+            "la": "Al-Mu'minun",
+            "en": "The Believers",
+            "fr": "Les Croyants"
+        },
+        "totalVerses": 118
+    },
+    {
+        "id": 24,
+        "name": {
+            "ar": "النور",
+            "la": "An-Nur",
+            "en": "The Light",
+            "fr": "La Lumière"
+        },
+        "totalVerses": 64
+    },
+    {
+        "id": 25,
+        "name": {
+            "ar": "الفرقان",
+            "la": "Al-Furqan",
+            "en": "The Criterion",
+            "fr": "Le Discernement"
+        },
+        "totalVerses": 77
+    },
+    {
+        "id": 26,
+        "name": {
+            "ar": "الشعراء",
+            "la": "Ash-Shu'ara",
+            "en": "The Poets",
+            "fr": "Les Poètes"
+        },
+        "totalVerses": 227
+    },
+    {
+        "id": 27,
+        "name": {
+            "ar": "النمل",
+            "la": "An-Naml",
+            "en": "The Ant",
+            "fr": "Les Fourmis"
+        },
+        "totalVerses": 93
+    },
+    {
+        "id": 28,
+        "name": {
+            "ar": "القصص",
+            "la": "Al-Qasas",
+            "en": "The Stories",
+            "fr": "Les Histoires"
+        },
+        "totalVerses": 88
+    },
+    {
+        "id": 29,
+        "name": {
+            "ar": "العنكبوت",
+            "la": "Al-Ankabut",
+            "en": "The Spider",
+            "fr": "L'Araignée"
+        },
+        "totalVerses": 69
+    },
+    {
+        "id": 30,
+        "name": {
+            "ar": "الروم",
+            "la": "Ar-Rum",
+            "en": "The Romans",
+            "fr": "Les Romains"
+        },
+        "totalVerses": 60
+    },
+    {
+        "id": 31,
+        "name": {
+            "ar": "لقمان",
+            "la": "Luqman",
+            "en": "Luqman",
+            "fr": "Luqman"
+        },
+        "totalVerses": 34
+    },
+    {
+        "id": 32,
+        "name": {
+            "ar": "السجدة",
+            "la": "As-Sajda",
+            "en": "The Prostration",
+            "fr": "La Prosternation"
+        },
+        "totalVerses": 30
+    },
+    {
+        "id": 33,
+        "name": {
+            "ar": "الأحزاب",
+            "la": "Al-Ahzab",
+            "en": "The Combined Forces",
+            "fr": "Les Coalisés"
+        },
+        "totalVerses": 73
+    },
+    {
+        "id": 34,
+        "name": {
+            "ar": "سبإ",
+            "la": "Saba",
+            "en": "Sheba",
+            "fr": "Saba"
+        },
+        "totalVerses": 54
+    },
+    {
+        "id": 35,
+        "name": {
+            "ar": "فاطر",
+            "la": "Fatir",
+            "en": "The Originator",
+            "fr": "Le Créateur"
+        },
+        "totalVerses": 45
+    },
+    {
+        "id": 36,
+        "name": {
+            "ar": "يس",
+            "la": "Ya-Sin",
+            "en": "Ya-Sin",
+            "fr": "Ya-Sin"
+        },
+        "totalVerses": 83
+    },
+    {
+        "id": 37,
+        "name": {
+            "ar": "الصافات",
+            "la": "As-Saffat",
+            "en": "Those who set the Ranks",
+            "fr": "Les Rangées"
+        },
+        "totalVerses": 182
+    },
+    {
+        "id": 38,
+        "name": {
+            "ar": "ص",
+            "la": "Sad",
+            "en": "The Letter Sad",
+            "fr": "Sad"
+        },
+        "totalVerses": 88
+    },
+    {
+        "id": 39,
+        "name": {
+            "ar": "الزمر",
+            "la": "Az-Zumar",
+            "en": "The Troops",
+            "fr": "Les Groupes"
+        },
+        "totalVerses": 75
+    },
+    {
+        "id": 40,
+        "name": {
+            "ar": "غافر",
+            "la": "Ghafir",
+            "en": "The Forgiver",
+            "fr": "Le Pardonneur"
+        },
+        "totalVerses": 85
+    },
+    {
+        "id": 41,
+        "name": {
+            "ar": "فصلت",
+            "la": "Fussilat",
+            "en": "Explained in Detail",
+            "fr": "Les Versets Détaillés"
+        },
+        "totalVerses": 54
+    },
+    {
+        "id": 42,
+        "name": {
+            "ar": "الشورى",
+            "la": "Ash-Shura",
+            "en": "The Consultation",
+            "fr": "La Consultation"
+        },
+        "totalVerses": 53
+    },
+    {
+        "id": 43,
+        "name": {
+            "ar": "الزخرف",
+            "la": "Az-Zukhruf",
+            "en": "The Gold Adornments",
+            "fr": "Les Ornements"
+        },
+        "totalVerses": 89
+    },
+    {
+        "id": 44,
+        "name": {
+            "ar": "الدخان",
+            "la": "Ad-Dukhan",
+            "en": "The Smoke",
+            "fr": "La Fumée"
+        },
+        "totalVerses": 59
+    },
+    {
+        "id": 45,
+        "name": {
+            "ar": "الجاثية",
+            "la": "Al-Jathiya",
+            "en": "The Crouching",
+            "fr": "L'Agenouillée"
+        },
+        "totalVerses": 37
+    },
+    {
+        "id": 46,
+        "name": {
+            "ar": "الأحقاف",
+            "la": "Al-Ahqaf",
+            "en": "The Wind-Curved Sandhills",
+            "fr": "Les Dunes"
+        },
+        "totalVerses": 35
+    },
+    {
+        "id": 47,
+        "name": {
+            "ar": "محمد",
+            "la": "Muhammad",
+            "en": "Muhammad",
+            "fr": "Muhammad"
+        },
+        "totalVerses": 38
+    },
+    {
+        "id": 48,
+        "name": {
+            "ar": "الفتح",
+            "la": "Al-Fath",
+            "en": "The Victory",
+            "fr": "La Victoire"
+        },
+        "totalVerses": 29
+    },
+    {
+        "id": 49,
+        "name": {
+            "ar": "الحجرات",
+            "la": "Al-Hujurat",
+            "en": "The Rooms",
+            "fr": "Les Appartements"
+        },
+        "totalVerses": 18
+    },
+    {
+        "id": 50,
+        "name": {
+            "ar": "ق",
+            "la": "Qaf",
+            "en": "The Letter Qaf",
+            "fr": "Qaf"
+        },
+        "totalVerses": 45
+    },
+    {
+        "id": 51,
+        "name": {
+            "ar": "الذاريات",
+            "la": "Adh-Dhariyat",
+            "en": "The Winnowing Winds",
+            "fr": "Les Vents Qui Éparpillent"
+        },
+        "totalVerses": 60
+    },
+    {
+        "id": 52,
+        "name": {
+            "ar": "الطور",
+            "la": "At-Tur",
+            "en": "The Mount",
+            "fr": "La Montagne"
+        },
+        "totalVerses": 49
+    },
+    {
+        "id": 53,
+        "name": {
+            "ar": "النجم",
+            "la": "An-Najm",
+            "en": "The Star",
+            "fr": "L'Étoile"
+        },
+        "totalVerses": 62
+    },
+    {
+        "id": 54,
+        "name": {
+            "ar": "القمر",
+            "la": "Al-Qamar",
+            "en": "The Moon",
+            "fr": "La Lune"
+        },
+        "totalVerses": 55
+    },
+    {
+        "id": 55,
+        "name": {
+            "ar": "الرحمن",
+            "la": "Ar-Rahman",
+            "en": "The Beneficent",
+            "fr": "Le Tout Miséricordieux"
+        },
+        "totalVerses": 78
+    },
+    {
+        "id": 56,
+        "name": {
+            "ar": "الواقعة",
+            "la": "Al-Waqia",
+            "en": "The Inevitable",
+            "fr": "L'Inevitable"
+        },
+        "totalVerses": 96
+    },
+    {
+        "id": 57,
+        "name": {
+            "ar": "الحديد",
+            "la": "Al-Hadid",
+            "en": "The Iron",
+            "fr": "Le Fer"
+        },
+        "totalVerses": 29
+    },
+    {
+        "id": 58,
+        "name": {
+            "ar": "المجادلة",
+            "la": "Al-Mujadila",
+            "en": "The Pleading Woman",
+            "fr": "La Discussion"
+        },
+        "totalVerses": 22
+    },
+    {
+        "id": 59,
+        "name": {
+            "ar": "الحشر",
+            "la": "Al-Hashr",
+            "en": "The Exile",
+            "fr": "L'Exode"
+        },
+        "totalVerses": 24
+    },
+    {
+        "id": 60,
+        "name": {
+            "ar": "الممتحنة",
+            "la": "Al-Mumtahina",
+            "en": "She that is to be examined",
+            "fr": "L'Éprouvée"
+        },
+        "totalVerses": 13
+    },
+    {
+        "id": 61,
+        "name": {
+            "ar": "الصف",
+            "la": "As-Saff",
+            "en": "The Ranks",
+            "fr": "Les Rangs"
+        },
+        "totalVerses": 14
+    },
+    {
+        "id": 62,
+        "name": {
+            "ar": "الجمعة",
+            "la": "Al-Jumua",
+            "en": "The Congregation, Friday",
+            "fr": "Le Vendredi"
+        },
+        "totalVerses": 11
+    },
+    {
+        "id": 63,
+        "name": {
+            "ar": "المنافقون",
+            "la": "Al-Munafiqoon",
+            "en": "The Hypocrites",
+            "fr": "Les Hypocrites"
+        },
+        "totalVerses": 11
+    },
+    {
+        "id": 64,
+        "name": {
+            "ar": "التغابن",
+            "la": "At-Taghabun",
+            "en": "The Mutual Disillusion",
+            "fr": "La Grande Perte"
+        },
+        "totalVerses": 18
+    },
+    {
+        "id": 65,
+        "name": {
+            "ar": "الطلاق",
+            "la": "At-Talaq",
+            "en": "The Divorce",
+            "fr": "Le Divorce"
+        },
+        "totalVerses": 12
+    },
+    {
+        "id": 66,
+        "name": {
+            "ar": "التحريم",
+            "la": "At-Tahrim",
+            "en": "The Prohibition",
+            "fr": "L'Interdiction"
+        },
+        "totalVerses": 12
+    },
+    {
+        "id": 67,
+        "name": {
+            "ar": "الملك",
+            "la": "Al-Mulk",
+            "en": "The Sovereignty",
+            "fr": "La Royauté"
+        },
+        "totalVerses": 30
+    },
+    {
+        "id": 68,
+        "name": {
+            "ar": "القلم",
+            "la": "Al-Qalam",
+            "en": "The Pen",
+            "fr": "La Plume"
+        },
+        "totalVerses": 52
+    },
+    {
+        "id": 69,
+        "name": {
+            "ar": "الحاقة",
+            "la": "Al-Haaqqa",
+            "en": "The Reality",
+            "fr": "La Réalité"
+        },
+        "totalVerses": 52
+    },
+    {
+        "id": 70,
+        "name": {
+            "ar": "المعارج",
+            "la": "Al-Maarij",
+            "en": "The Ascending Stairways",
+            "fr": "Les Voies d'Ascension"
+        },
+        "totalVerses": 44
+    },
+    {
+        "id": 71,
+        "name": {
+            "ar": "نوح",
+            "la": "Nuh",
+            "en": "Noah",
+            "fr": "Noé"
+        },
+        "totalVerses": 28
+    },
+    {
+        "id": 72,
+        "name": {
+            "ar": "الجن",
+            "la": "Al-Jinn",
+            "en": "The Jinn",
+            "fr": "Les Djinns"
+        },
+        "totalVerses": 28
+    },
+    {
+        "id": 73,
+        "name": {
+            "ar": "المزمل",
+            "la": "Al-Muzzammil",
+            "en": "The Enshrouded One",
+            "fr": "L'Enveloppé"
+        },
+        "totalVerses": 20
+    },
+    {
+        "id": 74,
+        "name": {
+            "ar": "المدثر",
+            "la": "Al-Muddathir",
+            "en": "The Cloaked One",
+            "fr": "Le Revêtu d'un Manteau"
+        },
+        "totalVerses": 56
+    },
+    {
+        "id": 75,
+        "name": {
+            "ar": "القيامة",
+            "la": "Al-Qiyama",
+            "en": "The Resurrection",
+            "fr": "La Résurrection"
+        },
+        "totalVerses": 40
+    },
+    {
+        "id": 76,
+        "name": {
+            "ar": "الإنسان",
+            "la": "Al-Insan",
+            "en": "Man",
+            "fr": "L'Homme"
+        },
+        "totalVerses": 31
+    },
+    {
+        "id": 77,
+        "name": {
+            "ar": "المرسلات",
+            "la": "Al-Mursalat",
+            "en": "The Emissaries",
+            "fr": "Les Envoyés"
+        },
+        "totalVerses": 50
+    },
+    {
+        "id": 78,
+        "name": {
+            "ar": "النبأ",
+            "la": "An-Naba",
+            "en": "The Tidings",
+            "fr": "La Nouvelle"
+        },
+        "totalVerses": 40
+    },
+    {
+        "id": 79,
+        "name": {
+            "ar": "النازعات",
+            "la": "An-Nazi'at",
+            "en": "Those who drag forth",
+            "fr": "Les Anges Qui Arrachent"
+        },
+        "totalVerses": 46
+    },
+    {
+        "id": 80,
+        "name": {
+            "ar": "عبس",
+            "la": "Abasa",
+            "en": "He frowned",
+            "fr": "Il S'est Renfrogné"
+        },
+        "totalVerses": 42
+    },
+    {
+        "id": 81,
+        "name": {
+            "ar": "التكوير",
+            "la": "At-Takwir",
+            "en": "The Overthrowing",
+            "fr": "L'Obscurcissement"
+        },
+        "totalVerses": 29
+    },
+    {
+        "id": 82,
+        "name": {
+            "ar": "الإنفطار",
+            "la": "Al-Infitar",
+            "en": "The Cleaving",
+            "fr": "La Rupture"
+        },
+        "totalVerses": 19
+    },
+    {
+        "id": 83,
+        "name": {
+            "ar": "المطففين",
+            "la": "Al-Mutaffifin",
+            "en": "Defrauding",
+            "fr": "Les Fraudeurs"
+        },
+        "totalVerses": 36
+    },
+    {
+        "id": 84,
+        "name": {
+            "ar": "الإنشقاق",
+            "la": "Al-Inshiqaq",
+            "en": "The Splitting Open",
+            "fr": "La Déchirure"
+        },
+        "totalVerses": 25
+    },
+    {
+        "id": 85,
+        "name": {
+            "ar": "البروج",
+            "la": "Al-Burooj",
+            "en": "The Mansions of the Stars",
+            "fr": "Les Constellations"
+        },
+        "totalVerses": 22
+    },
+    {
+        "id": 86,
+        "name": {
+            "ar": "الطارق",
+            "la": "At-Tariq",
+            "en": "The Morning Star",
+            "fr": "L'Astre Nocturne"
+        },
+        "totalVerses": 17
+    },
+    {
+        "id": 87,
+        "name": {
+            "ar": "الأعلى",
+            "la": "Al-Ala",
+            "en": "The Most High",
+            "fr": "Le Très-Haut"
+        },
+        "totalVerses": 19
+    },
+    {
+        "id": 88,
+        "name": {
+            "ar": "الغاشية",
+            "la": "Al-Ghashiya",
+            "en": "The Overwhelming",
+            "fr": "L'Événement"
+        },
+        "totalVerses": 26
+    },
+    {
+        "id": 89,
+        "name": {
+            "ar": "الفجر",
+            "la": "Al-Fajr",
+            "en": "The Dawn",
+            "fr": "L'Aube"
+        },
+        "totalVerses": 30
+    },
+    {
+        "id": 90,
+        "name": {
+            "ar": "البلد",
+            "la": "Al-Balad",
+            "en": "The City",
+            "fr": "La Cité"
+        },
+        "totalVerses": 20
+    },
+    {
+        "id": 91,
+        "name": {
+            "ar": "الشمس",
+            "la": "Ash-Shams",
+            "en": "The Sun",
+            "fr": "Le Soleil"
+        },
+        "totalVerses": 15
+    },
+    {
+        "id": 92,
+        "name": {
+            "ar": "الليل",
+            "la": "Al-Lail",
+            "en": "The Night",
+            "fr": "La Nuit"
+        },
+        "totalVerses": 21
+    },
+    {
+        "id": 93,
+        "name": {
+            "ar": "الضحى",
+            "la": "Ad-Duhaa",
+            "en": "The Morning Hours",
+            "fr": "Le Jour Montant"
+        },
+        "totalVerses": 11
+    },
+    {
+        "id": 94,
+        "name": {
+            "ar": "الشرح",
+            "la": "Ash-Sharh",
+            "en": "The Relief",
+            "fr": "L'Ouverture"
+        },
+        "totalVerses": 8
+    },
+    {
+        "id": 95,
+        "name": {
+            "ar": "التين",
+            "la": "At-Tin",
+            "en": "The Fig",
+            "fr": "Le Figuier"
+        },
+        "totalVerses": 8
+    },
+    {
+        "id": 96,
+        "name": {
+            "ar": "العلق",
+            "la": "Al-Alaq",
+            "en": "The Clot",
+            "fr": "L'Adhérence"
+        },
+        "totalVerses": 19
+    },
+    {
+        "id": 97,
+        "name": {
+            "ar": "القدر",
+            "la": "Al-Qadr",
+            "en": "The Power",
+            "fr": "La Destinée"
+        },
+        "totalVerses": 5
+    },
+    {
         "id": 98,
         "name": {
             "ar": "البينة",
-            "la": "al-Bayyinah",
+            "la": "Al-Bayyina",
             "en": "The Clear Proof",
-            "fr": "La Preuve Claire"
+            "fr": "La Preuve"
         },
         "totalVerses": 8
     },
@@ -13,7 +983,7 @@
         "id": 99,
         "name": {
             "ar": "الزلزلة",
-            "la": "az-Zalzalah",
+            "la": "Az-Zalzala",
             "en": "The Earthquake",
             "fr": "La Secousse"
         },
@@ -24,9 +994,149 @@
         "name": {
             "ar": "العاديات",
             "la": "Al-Adiyat",
-            "en": "The Chargers",
+            "en": "The Courser",
             "fr": "Les Coursiers"
         },
         "totalVerses": 11
+    },
+    {
+        "id": 101,
+        "name": {
+            "ar": "القارعة",
+            "la": "Al-Qaria",
+            "en": "The Calamity",
+            "fr": "Le Fracas"
+        },
+        "totalVerses": 11
+    },
+    {
+        "id": 102,
+        "name": {
+            "ar": "التكاثر",
+            "la": "At-Takathur",
+            "en": "Rivalry in World Increase",
+            "fr": "La Course Aux Richesses"
+        },
+        "totalVerses": 8
+    },
+    {
+        "id": 103,
+        "name": {
+            "ar": "العصر",
+            "la": "Al-Asr",
+            "en": "The Declining Day",
+            "fr": "Le Temps"
+        },
+        "totalVerses": 3
+    },
+    {
+        "id": 104,
+        "name": {
+            "ar": "الهمزة",
+            "la": "Al-Humaza",
+            "en": "The Traducer",
+            "fr": "Les Calomniateurs"
+        },
+        "totalVerses": 9
+    },
+    {
+        "id": 105,
+        "name": {
+            "ar": "الفيل",
+            "la": "Al-Fil",
+            "en": "The Elephant",
+            "fr": "L'Éléphant"
+        },
+        "totalVerses": 5
+    },
+    {
+        "id": 106,
+        "name": {
+            "ar": "قريش",
+            "la": "Quraish",
+            "en": "Quraish",
+            "fr": "Quraysh"
+        },
+        "totalVerses": 4
+    },
+    {
+        "id": 107,
+        "name": {
+            "ar": "الماعون",
+            "la": "Al-Ma'un",
+            "en": "The Small Kindnesses",
+            "fr": "L'Ustensile"
+        },
+        "totalVerses": 7
+    },
+    {
+        "id": 108,
+        "name": {
+            "ar": "الكوثر",
+            "la": "Al-Kawthar",
+            "en": "The Abundance",
+            "fr": "L'Abondance"
+        },
+        "totalVerses": 3
+    },
+    {
+        "id": 109,
+        "name": {
+            "ar": "الكافرون",
+            "la": "Al-Kafirun",
+            "en": "The Disbelievers",
+            "fr": "Les Infidèles"
+        },
+        "totalVerses": 6
+    },
+    {
+        "id": 110,
+        "name": {
+            "ar": "النصر",
+            "la": "An-Nasr",
+            "en": "The Divine Support",
+            "fr": "Le Secours"
+        },
+        "totalVerses": 3
+    },
+    {
+        "id": 111,
+        "name": {
+            "ar": "المسد",
+            "la": "Al-Masad",
+            "en": "The Palm Fiber",
+            "fr": "Les Fibres"
+        },
+        "totalVerses": 5
+    },
+    {
+        "id": 112,
+        "name": {
+            "ar": "الإخلاص",
+            "la": "Al-Ikhlas",
+            "en": "The Sincerity",
+            "fr": "Le Monothéisme Pur"
+        },
+        "totalVerses": 4
+    },
+    {
+        "id": 113,
+        "name": {
+            "ar": "الفلق",
+            "la": "Al-Falaq",
+            "en": "The Daybreak",
+            "fr": "L'Aube Naissante"
+        },
+        "totalVerses": 5
+    },
+    {
+        "id": 114,
+        "name": {
+            "ar": "الناس",
+            "la": "An-Nas",
+            "en": "Mankind",
+            "fr": "Les Hommes"
+        },
+        "totalVerses": 6
     }
 ]
